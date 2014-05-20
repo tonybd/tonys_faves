@@ -1,0 +1,1 @@
+This is a content management application written in RoR, using Refinery CMS
